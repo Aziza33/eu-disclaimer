@@ -1,3 +1,3 @@
 # eu-disclaimer
-Projet
+Dans le cadre d'un exercice
 # Création d'un plugin wordpress
